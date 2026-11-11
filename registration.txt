@@ -1,0 +1,14 @@
+
+STUDENT REGISTRATION FORM
+
+Student ID: 2403A51101
+Student Name: Anuja
+Department: Computer Science and Engineering
+College: SR University
+Year: 3rd Year
+Email: anuja@example.com
+Phone Number: 9876543210
+Course: B.Tech
+Academic Year: 2026-2027
+
+Registration Status: Successfully Registered
