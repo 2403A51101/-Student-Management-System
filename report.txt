@@ -1,0 +1,25 @@
+STUDENT ACADEMIC REPORT
+
+Student ID: 2403A51101
+Student Name: Anuja
+Department: Computer Science and Engineering
+College: SR University
+Course: B.Tech
+Year: 3rd Year
+Academic Year: 2026-2027
+
+SUBJECT-WISE MARKS
+
+Subject 1: 85
+Subject 2: 90
+Subject 3: 88
+Subject 4: 92
+Subject 5: 87
+
+Total Marks: 442
+Maximum Marks: 500
+Percentage: 88.4%
+Grade: A
+Result: PASS
+
+Report Status: Generated Successfully
